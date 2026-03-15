@@ -1,0 +1,10 @@
+flwr
+torch
+torchvision
+opacus
+scikit-learn
+pandas
+numpy
+mlflow
+fastapi
+uvicorn
