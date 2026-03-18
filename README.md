@@ -243,4 +243,4 @@ MIT License
 
 # 👨‍💻 Author
 
-Built for research and experimentation in **Privacy-Preserving Machine Learning and Federated AI systems**.
+Dr. Brandon Williams
